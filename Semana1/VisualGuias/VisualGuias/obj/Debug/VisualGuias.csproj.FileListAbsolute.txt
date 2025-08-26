@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.Form1.resources
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.Properties.Resources.resources
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\bin\Debug\VisualGuias.exe.config
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\bin\Debug\VisualGuias.exe
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\bin\Debug\VisualGuias.pdb
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.exe
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.pdb
+C:\Users\DELL\source\repos\VisualGuias\VisualGuias\obj\Debug\VisualGuias.exe.config
