@@ -1,0 +1,6 @@
+--- Reporte de Ordenamiento Multihilo ---
+
+Algoritmo Bubble Sort:	Tiempo: Detenido (4401 ms)
+Algoritmo QuickSort:	Tiempo: Detenido (232 ms)
+Algoritmo Selection Sort:	Tiempo: Detenido (4385 ms)
+Algoritmo Merge Sort:	Tiempo: Detenido (5922 ms)

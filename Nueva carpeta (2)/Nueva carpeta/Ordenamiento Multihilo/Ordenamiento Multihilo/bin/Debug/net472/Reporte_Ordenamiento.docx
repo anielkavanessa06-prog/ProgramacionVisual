@@ -1,0 +1,6 @@
+--- Reporte de Ordenamiento Multihilo ---
+
+Algoritmo Bubble Sort:	Tiempo: 68 ms
+Algoritmo QuickSort:	Tiempo: 103 ms
+Algoritmo Selection Sort:	Tiempo: 94 ms
+Algoritmo Merge Sort:	Tiempo: 137 ms
